@@ -34,7 +34,7 @@ Each module was tested using industry-standard QA techniques such as positive te
 | **Total Test Cases Planned** | 11 |
 | **Test Cases Executed** | 11 |
 | **Execution Rate** | 100% |
-| **Pass Rate** | 87% (Approx) |
+| **Pass Rate** | 67.3% (Approx) |
 | **Test Coverage** | 100% |
 | **Critical Defects** | None |
 | **High-Priority Bugs** | 4 |
