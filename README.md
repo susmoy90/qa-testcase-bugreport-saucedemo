@@ -118,13 +118,13 @@ This project reflects real QA documentation and is perfect for showcasing manual
 ## 📎 Project Links
 
 🔗 **Google Sheet / Live Document (Optional):**  
-[Summary Report (Live Sheet)](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=0#gid=0)
+[Summary Report (Live Sheet)](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=1572976255#gid=1572976255)
 
 🔗 **Test Case Excel File:**  
-Uploaded in repository  
+[Test_case_report](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=0#gid=0)
 
 🔗 **Bug Report Excel File:**  
-Uploaded in repository  
+[Bug report](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=887897414#gid=887897414)  
 
 ---
 
