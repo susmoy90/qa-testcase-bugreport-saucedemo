@@ -118,7 +118,7 @@ This project reflects real QA documentation and is perfect for showcasing manual
 ## 📎 Project Links
 
 🔗 **Google Sheet / Live Document (Optional):**  
-[_Add link here_](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=0#gid=0)
+[Summary Report (Live Sheet)](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=0#gid=0)
 
 🔗 **Test Case Excel File:**  
 Uploaded in repository  
