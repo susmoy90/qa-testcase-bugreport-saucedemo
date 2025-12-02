@@ -127,5 +127,12 @@ This project reflects real QA documentation and is perfect for showcasing manual
 [Bug report](https://docs.google.com/spreadsheets/d/19j8BmbQwBtltMl1kr8gfGV7o6pMAGDPnc2_PQ-W2w9U/edit?gid=887897414#gid=887897414)  
 
 ---
+
 ## 📎 Social media Links
-[linkedin)](https://www.linkedin.com/posts/susmoy-das-90605a124_im-happy-to-share-this-website-qa-testing-activity-7401218577816813568-fDw3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6enZYB3N35KaEPe7GCMJSqsZ4m76eSifA)
+[linkedin](https://www.linkedin.com/in/susmoy-das-90605a124/)
+
+[Facebook](https://www.facebook.com/share/1MeVxTJkdX/)
+
+---
+## 📎 Find social media post link
+[linkedin](https://www.linkedin.com/posts/susmoy-das-90605a124_im-happy-to-share-this-website-qa-testing-activity-7401218577816813568-fDw3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6enZYB3N35KaEPe7GCMJSqsZ4m76eSifA)
